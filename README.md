@@ -113,5 +113,4 @@ This dashboard provides a structured view of telecom network health and supports
 ---
 
 ## Author
-
-IPT Telecom Analytics Project
+Olufemi Olamoyegun
