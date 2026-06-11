@@ -12,7 +12,7 @@ The goal is to identify weak network areas and monitor infrastructure performanc
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://github.com/olufemi-builds/Telecom-Network-Performance-Dashboard/tree/main)
+![Dashboard Preview](https://github.com/olufemi-builds/Telecom-Network-Performance-Dashboard/blob/main/power%20bi%20dashboard.png)
 
 ---
 
