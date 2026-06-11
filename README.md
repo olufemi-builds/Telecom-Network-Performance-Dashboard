@@ -12,7 +12,7 @@ The goal is to identify weak network areas and monitor infrastructure performanc
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-mockup.png)
+![Dashboard Preview](Telecom-Network-Performance-Dashboard/blob/main/power%20bi%20dashboard.png)
 
 ---
 
